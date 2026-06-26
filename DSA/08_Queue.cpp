@@ -15,7 +15,7 @@ cout<<"\n";
 while(!q.empty()){
     cout<<q.front()<<endl;
     q.pop();
-}
+} 
 
 cout<<"size: "<<q.size();
 
